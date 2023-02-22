@@ -385,36 +385,72 @@ body {
 .activity-list {
 }
 
-.activity-list:hover,
-.activity-list:focus {
-	color: #404bbf;
-}
-
 .activity-item {
 }
 
 .all-btn {
+	background: #404bbf;
 }
 
 .all-btn-descr {
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 1.5;
+	display: flex;
+	align-items: center;
+	text-align: center;
+	letter-spacing: 0.04em;
+	color: #ffffff;
 }
 
 .web-site-btn {
 }
 
 .web-site-btn-descr {
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 1.5;
+	display: flex;
+	align-items: center;
+	text-align: center;
+	letter-spacing: 0.04em;
+	color: #4d5ae5;
 }
 .app-btn {
 }
 .app-btn-descr {
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 1.5;
+	display: flex;
+	align-items: center;
+	text-align: center;
+	letter-spacing: 0.04em;
+	color: #4d5ae5;
 }
 .design-btn {
 }
 .design-btn-descr {
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 1.5;
+	display: flex;
+	align-items: center;
+	text-align: center;
+	letter-spacing: 0.04em;
+	color: #4d5ae5;
 }
 .marketing-btn {
 }
 .marketing-btn-descr {
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 1.5;
+	display: flex;
+	align-items: center;
+	text-align: center;
+	letter-spacing: 0.04em;
+	color: #4d5ae5;
 }
 .service-1-section {
 }
@@ -423,20 +459,51 @@ body {
 .service-banking-app-interface-concept {
 }
 .name-banking-app-interface-concept {
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 1.2;
+	letter-spacing: 0.02em;
+	color: #2e2f42;
 }
 .banking-app-interface-concept-title {
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 1.5;
+	letter-spacing: 0.02em;
+	color: #434455;
 }
 .service-cashless-payment {
 }
 .name-cashless-payment {
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 1.2;
+	letter-spacing: 0.02em;
+	color: #2e2f42;
 }
 .cashless-payment-title {
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 1.5;
+	letter-spacing: 0.02em;
+	color: #434455;
 }
+
 .service-meditaion-app {
 }
 .name-meditaion-app {
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 1.2;
+	letter-spacing: 0.02em;
+	color: #2e2f42;
 }
 .meditaion-app-title {
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 1.5;
+	letter-spacing: 0.02em;
+	color: #434455;
 }
 .service-2-section {
 }
@@ -445,20 +512,50 @@ body {
 .service-taxi-service {
 }
 .name-taxi-service {
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 1.2;
+	letter-spacing: 0.02em;
+	color: #2e2f42;
 }
-.-taxi-service-title {
+.taxi-service-title {
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 1.5;
+	letter-spacing: 0.02em;
+	color: #434455;
 }
 .service-screen-illustrations {
 }
 .name-screen-illustrations {
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 1.2;
+	letter-spacing: 0.02em;
+	color: #2e2f42;
 }
 .screen-illustrations-title {
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 1.5;
+	letter-spacing: 0.02em;
+	color: #434455;
 }
 .service-online-courses {
 }
 .name-online-courses {
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 1.2;
+	letter-spacing: 0.02em;
+	color: #2e2f42;
 }
 .online-courses-title {
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 1.5;
+	letter-spacing: 0.02em;
+	color: #434455;
 }
 .service-3-section {
 }
@@ -467,18 +564,48 @@ body {
 .service-instagram-stories-concept {
 }
 .name-instagram-stories-concept {
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 1.2;
+	letter-spacing: 0.02em;
+	color: #2e2f42;
 }
 .instagram-stories-concept-title {
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 1.5;
+	letter-spacing: 0.02em;
+	color: #434455;
 }
 .service-organic-food {
 }
 .name-organic-food {
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 1.2;
+	letter-spacing: 0.02em;
+	color: #2e2f42;
 }
 .organic-food-title {
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 1.5;
+	letter-spacing: 0.02em;
+	color: #434455;
 }
 .service-fresh-coffee {
 }
 .name-fresh-coffee {
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 1.2;
+	letter-spacing: 0.02em;
+	color: #2e2f42;
 }
 .fresh-coffee-title {
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 1.5;
+	letter-spacing: 0.02em;
+	color: #434455;
 }
