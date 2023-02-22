@@ -1,0 +1,479 @@
+body {
+	font-family: "Roboto", sans-serif;
+	background: #e5e5e5;
+}
+
+.list {
+	list-style: none;
+}
+
+.link {
+	text-decoration: none;
+}
+
+/*--------------------Header------------------*/
+
+.header {
+}
+
+.header-navigation {
+}
+
+.header-home-page {
+	font-weight: 800;
+	font-size: 18px;
+	line-height: 1.33;
+	display: flex;
+	align-items: center;
+	letter-spacing: 0.03em;
+	text-transform: uppercase;
+	color: #4d5ae5;
+}
+
+.header-home-page-descr {
+	font-weight: 800;
+	font-size: 18px;
+	line-height: 1.33;
+	display: flex;
+	align-items: center;
+	letter-spacing: 0.03em;
+	text-transform: uppercase;
+	color: #2e2f42;
+}
+
+.header-list {
+}
+
+.header-item {
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 1.5;
+	letter-spacing: 0.02em;
+	color: #2e2f42;
+}
+
+.header-link-studio {
+}
+
+.header-link-portfolio {
+}
+
+.header-link-contacts {
+}
+
+.header-contacts {
+}
+
+.header-contacts-list {
+}
+
+.header-contacts-item {
+}
+
+.header-mailto {
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 1.5;
+	letter-spacing: 0.02em;
+	color: #434455;
+	text-decoration: none;
+}
+
+.header-tel {
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 1.5;
+	letter-spacing: 0.02em;
+	color: #434455;
+	text-decoration: none;
+}
+
+/*--------------------------Main-------------------------------*/
+
+.main {
+}
+
+/*-----------------------Hero Section-------------------------*/
+
+.hero-section {
+	background: #2e2f42;
+}
+
+.hero-section-title {
+	font-weight: 700;
+	font-size: 56px;
+	line-height: 1.07;
+	text-align: center;
+	letter-spacing: 0.02em;
+	color: #ffffff;
+}
+
+.hero-btn {
+	background: #4d5ae5;
+}
+
+.hero-btn-descr {
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 1.5;
+	display: flex;
+	align-items: center;
+	letter-spacing: 0.04em;
+	color: #ffffff;
+}
+
+/*------------------Advantages Section------------------------*/
+
+.advantages-section {
+}
+
+.advantages-section-title {
+}
+
+.advantages-list {
+}
+
+.advantages-strategy {
+}
+
+.strategy-title {
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 1.2;
+	letter-spacing: 0.02em;
+	color: #2e2f42;
+}
+
+.strategy-desc {
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 1.5;
+	letter-spacing: 0.02em;
+	color: #434455;
+}
+
+.advantages-punctuality {
+}
+
+.punctuality-title {
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 1.2;
+	letter-spacing: 0.02em;
+	color: #2e2f42;
+}
+
+.punctuality-desc {
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 1.5;
+	letter-spacing: 0.02em;
+	color: #434455;
+}
+
+.advantages-diligence {
+}
+
+.diligence-title {
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 1.2;
+	letter-spacing: 0.02em;
+	color: #2e2f42;
+}
+
+.diligence-desc {
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 1.5;
+	letter-spacing: 0.02em;
+	color: #434455;
+}
+
+.advantages-technologies {
+}
+
+.technologies-title {
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 1.2;
+	letter-spacing: 0.02em;
+	color: #2e2f42;
+}
+
+.technologies-desc {
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 1.5;
+	letter-spacing: 0.02em;
+	color: #434455;
+}
+
+/*------------------Working Section--------------------*/
+
+.working-section {
+}
+
+.working-title {
+	font-weight: 700;
+	font-size: 36px;
+	line-height: 1.11;
+	text-align: center;
+	letter-spacing: 0.02em;
+	text-transform: capitalize;
+	color: #2e2f42;
+}
+
+.working-list {
+}
+
+.working-image-item {
+}
+
+/*---------------Team Section------------------*/
+
+.team-section {
+}
+
+.our-team-title {
+}
+
+.our-team-list {
+}
+
+.product-designer-content {
+	width: 264px;
+	height: 380px;
+	left: 156px;
+	top: 1780px;
+}
+
+.name-product-designer {
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 1.2;
+	text-align: center;
+	letter-spacing: 0.02em;
+	color: #2e2f42;
+}
+
+.product-designer-title {
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 1.5;
+	text-align: center;
+	letter-spacing: 0.02em;
+	color: #434455;
+}
+
+.product-frontend-developer {
+	width: 264px;
+	height: 380px;
+	left: 444px;
+	top: 1780px;
+}
+
+.name-frontend-developer {
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 1.2;
+	text-align: center;
+	letter-spacing: 0.02em;
+	color: #2e2f42;
+}
+
+.frontend-developer-title {
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 1.2;
+	text-align: center;
+	letter-spacing: 0.02em;
+	color: #434455;
+}
+
+.product-marketing {
+	width: 264px;
+	height: 380px;
+	left: 732px;
+	top: 1780px;
+}
+
+.name-marketing {
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 1.2;
+	text-align: center;
+	letter-spacing: 0.02em;
+	color: #2e2f42;
+}
+
+.marketing-title {
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 1.5;
+	text-align: center;
+	letter-spacing: 0.02em;
+	color: #434455;
+}
+
+.product-ui-designer {
+	width: 264px;
+	height: 380px;
+	left: 1020px;
+	top: 1780px;
+}
+
+.name-ui-designer {
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 1.2;
+	text-align: center;
+	letter-spacing: 0.02em;
+	color: #2e2f42;
+}
+
+.ui-designer-title {
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 1.5;
+	text-align: center;
+	letter-spacing: 0.02em;
+	color: #434455;
+}
+
+/*------------------- Footer------------------*/
+
+.footer {
+	background: #2e2f42;
+}
+
+.footer-link {
+	font-weight: 800;
+	font-size: 18px;
+	line-height: 1.16;
+	display: flex;
+	align-items: center;
+	letter-spacing: 0.03em;
+	text-transform: uppercase;
+	color: #4d5ae5;
+}
+
+.footer-link-descr {
+	font-weight: 800;
+	font-size: 18px;
+	line-height: 1.16;
+	display: flex;
+	align-items: center;
+	letter-spacing: 0.03em;
+	text-transform: uppercase;
+	color: #f4f4fd;
+}
+
+.footer-desc {
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 1.5;
+	letter-spacing: 0.02em;
+	color: #e7e9fc;
+}
+
+/*----------------------Portfolio---------------------*/
+
+.activity-section {
+}
+
+.activity-list {
+}
+
+.activity-item {
+}
+
+.all-btn {
+}
+
+.all-btn-descr {
+}
+
+.web-site-btn {
+}
+
+.web-site-btn-descr {
+}
+.app-btn {
+}
+.app-btn-descr {
+}
+.design-btn {
+}
+.design-btn-descr {
+}
+.marketing-btn {
+}
+.marketing-btn-descr {
+}
+.service-1-section {
+}
+.service-1-section-list {
+}
+.service-banking-app-interface-concept {
+}
+.name-banking-app-interface-concept {
+}
+.banking-app-interface-concept-title {
+}
+.service-cashless-payment {
+}
+.name-cashless-payment {
+}
+.cashless-payment-title {
+}
+.service-meditaion-app {
+}
+.name-meditaion-app {
+}
+.meditaion-app-title {
+}
+.service-2-section {
+}
+.service-2-section-list {
+}
+.service-taxi-service {
+}
+.name-taxi-service {
+}
+.-taxi-service-title {
+}
+.service-screen-illustrations {
+}
+.name-screen-illustrations {
+}
+.screen-illustrations-title {
+}
+.service-online-courses {
+}
+.name-online-courses {
+}
+.online-courses-title {
+}
+.service-3-section {
+}
+.service-3-section-list {
+}
+.service-instagram-stories-concept {
+}
+.name-instagram-stories-concept {
+}
+.instagram-stories-concept-title {
+}
+.service-organic-food {
+}
+.name-organic-food {
+}
+.organic-food-title {
+}
+.service-fresh-coffee {
+}
+.name-fresh-coffee {
+}
+.fresh-coffee-title {
+}
