@@ -385,6 +385,11 @@ body {
 .activity-list {
 }
 
+.activity-list:hover,
+.activity-list:focus {
+	color: #404bbf;
+}
+
 .activity-item {
 }
 
