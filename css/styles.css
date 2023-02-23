@@ -1,6 +1,6 @@
 body {
 	font-family: "Roboto", sans-serif;
-	background: #e5e5e5;
+	background: #ffffff;
 }
 
 .list {
@@ -20,6 +20,7 @@ body {
 }
 
 .header-home-page {
+	font-family: "Raleway", sans-serif;
 	font-weight: 800;
 	font-size: 18px;
 	line-height: 1.33;
@@ -31,6 +32,7 @@ body {
 }
 
 .header-home-page-descr {
+	font-family: "Raleway", sans-serif;
 	font-weight: 800;
 	font-size: 18px;
 	line-height: 1.33;
@@ -53,12 +55,39 @@ body {
 }
 
 .header-link-studio {
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 1.5;
+	letter-spacing: 0.02em;
+	color: #2e2f42;
+}
+
+.header-link-studio:hover {
+	color: #4d5ae5;
 }
 
 .header-link-portfolio {
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 1.5;
+	letter-spacing: 0.02em;
+	color: #2e2f42;
+}
+
+.header-link-portfolio:hover {
+	color: #4d5ae5;
 }
 
 .header-link-contacts {
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 1.5;
+	letter-spacing: 0.02em;
+	color: #2e2f42;
+}
+
+.header-link-contacts:hover {
+	color: #4d5ae5;
 }
 
 .header-contacts {
@@ -71,7 +100,7 @@ body {
 }
 
 .header-mailto {
-	font-weight: 400;
+	font-style: normal;
 	font-size: 16px;
 	line-height: 1.5;
 	letter-spacing: 0.02em;
@@ -79,13 +108,21 @@ body {
 	text-decoration: none;
 }
 
+.header-mailto:hover {
+	color: #4d5ae5;
+}
+
 .header-tel {
-	font-weight: 400;
+	font-style: normal;
 	font-size: 16px;
 	line-height: 1.5;
 	letter-spacing: 0.02em;
 	color: #434455;
 	text-decoration: none;
+}
+
+.header-tel:hover {
+	color: #4d5ae5;
 }
 
 /*--------------------------Main-------------------------------*/
@@ -100,7 +137,6 @@ body {
 }
 
 .hero-section-title {
-	font-weight: 700;
 	font-size: 56px;
 	line-height: 1.07;
 	text-align: center;
@@ -348,6 +384,7 @@ body {
 }
 
 .footer-link {
+	font-family: "Raleway", sans-serif;
 	font-weight: 800;
 	font-size: 18px;
 	line-height: 1.16;
@@ -359,6 +396,7 @@ body {
 }
 
 .footer-link-descr {
+	font-family: "Raleway", sans-serif;
 	font-weight: 800;
 	font-size: 18px;
 	line-height: 1.16;
@@ -389,10 +427,14 @@ body {
 }
 
 .all-btn {
+}
+
+.all-btn:hover {
 	background: #404bbf;
 }
 
 .all-btn-descr {
+	font-family: "Roboto", sans-serif;
 	font-weight: 500;
 	font-size: 16px;
 	line-height: 1.5;
@@ -400,13 +442,22 @@ body {
 	align-items: center;
 	text-align: center;
 	letter-spacing: 0.04em;
+	color: #4d5ae5;
+}
+
+.all-btn-descr:hover {
 	color: #ffffff;
 }
 
 .web-site-btn {
 }
 
+.web-site-btn:hover {
+	background: #404bbf;
+}
+
 .web-site-btn-descr {
+	font-family: "Roboto", sans-serif;
 	font-weight: 500;
 	font-size: 16px;
 	line-height: 1.5;
@@ -416,9 +467,20 @@ body {
 	letter-spacing: 0.04em;
 	color: #4d5ae5;
 }
+
+.web-site-btn-descr:hover {
+	color: #ffffff;
+}
+
 .app-btn {
 }
+
+.app-btn:hover {
+	background: #404bbf;
+}
+
 .app-btn-descr {
+	font-family: "Roboto", sans-serif;
 	font-weight: 500;
 	font-size: 16px;
 	line-height: 1.5;
@@ -428,9 +490,20 @@ body {
 	letter-spacing: 0.04em;
 	color: #4d5ae5;
 }
+
+.app-btn-descr:hover {
+	color: #ffffff;
+}
+
 .design-btn {
 }
+
+.design-btn:hover {
+	background: #404bbf;
+}
+
 .design-btn-descr {
+	font-family: "Roboto", sans-serif;
 	font-weight: 500;
 	font-size: 16px;
 	line-height: 1.5;
@@ -440,9 +513,20 @@ body {
 	letter-spacing: 0.04em;
 	color: #4d5ae5;
 }
+
+.design-btn-descr:hover {
+	color: #ffffff;
+}
+
 .marketing-btn {
 }
+
+.marketing-btn:hover {
+	background: #404bbf;
+}
+
 .marketing-btn-descr {
+	font-family: "Roboto", sans-serif;
 	font-weight: 500;
 	font-size: 16px;
 	line-height: 1.5;
@@ -452,37 +536,45 @@ body {
 	letter-spacing: 0.04em;
 	color: #4d5ae5;
 }
-.service-1-section {
+
+.marketing-btn-descr:hover {
+	color: #ffffff;
 }
-.service-1-section-list {
+
+.service-section {
 }
+
+.service-section-list {
+}
+
 .service-banking-app-interface-concept {
 }
+
 .name-banking-app-interface-concept {
-	font-weight: 500;
 	font-size: 20px;
 	line-height: 1.2;
 	letter-spacing: 0.02em;
 	color: #2e2f42;
 }
+
 .banking-app-interface-concept-title {
-	font-weight: 400;
 	font-size: 16px;
 	line-height: 1.5;
 	letter-spacing: 0.02em;
 	color: #434455;
 }
+
 .service-cashless-payment {
 }
+
 .name-cashless-payment {
-	font-weight: 500;
 	font-size: 20px;
 	line-height: 1.2;
 	letter-spacing: 0.02em;
 	color: #2e2f42;
 }
+
 .cashless-payment-title {
-	font-weight: 400;
 	font-size: 16px;
 	line-height: 1.5;
 	letter-spacing: 0.02em;
@@ -491,119 +583,117 @@ body {
 
 .service-meditaion-app {
 }
+
 .name-meditaion-app {
-	font-weight: 500;
 	font-size: 20px;
 	line-height: 1.2;
 	letter-spacing: 0.02em;
 	color: #2e2f42;
 }
+
 .meditaion-app-title {
-	font-weight: 400;
 	font-size: 16px;
 	line-height: 1.5;
 	letter-spacing: 0.02em;
 	color: #434455;
 }
-.service-2-section {
-}
-.service-2-section-list {
-}
+
 .service-taxi-service {
 }
+
 .name-taxi-service {
-	font-weight: 500;
 	font-size: 20px;
 	line-height: 1.2;
 	letter-spacing: 0.02em;
 	color: #2e2f42;
 }
+
 .taxi-service-title {
-	font-weight: 400;
 	font-size: 16px;
 	line-height: 1.5;
 	letter-spacing: 0.02em;
 	color: #434455;
 }
+
 .service-screen-illustrations {
 }
+
 .name-screen-illustrations {
-	font-weight: 500;
 	font-size: 20px;
 	line-height: 1.2;
 	letter-spacing: 0.02em;
 	color: #2e2f42;
 }
+
 .screen-illustrations-title {
-	font-weight: 400;
 	font-size: 16px;
 	line-height: 1.5;
 	letter-spacing: 0.02em;
 	color: #434455;
 }
+
 .service-online-courses {
 }
+
 .name-online-courses {
-	font-weight: 500;
 	font-size: 20px;
 	line-height: 1.2;
 	letter-spacing: 0.02em;
 	color: #2e2f42;
 }
+
 .online-courses-title {
-	font-weight: 400;
 	font-size: 16px;
 	line-height: 1.5;
 	letter-spacing: 0.02em;
 	color: #434455;
 }
-.service-3-section {
-}
-.service-3-section-list {
-}
+
 .service-instagram-stories-concept {
 }
+
 .name-instagram-stories-concept {
-	font-weight: 500;
 	font-size: 20px;
 	line-height: 1.2;
 	letter-spacing: 0.02em;
 	color: #2e2f42;
 }
+
 .instagram-stories-concept-title {
-	font-weight: 400;
 	font-size: 16px;
 	line-height: 1.5;
 	letter-spacing: 0.02em;
 	color: #434455;
 }
+
 .service-organic-food {
 }
+
 .name-organic-food {
-	font-weight: 500;
 	font-size: 20px;
 	line-height: 1.2;
 	letter-spacing: 0.02em;
 	color: #2e2f42;
 }
+
 .organic-food-title {
-	font-weight: 400;
 	font-size: 16px;
 	line-height: 1.5;
 	letter-spacing: 0.02em;
 	color: #434455;
 }
+
 .service-fresh-coffee {
 }
+
 .name-fresh-coffee {
-	font-weight: 500;
 	font-size: 20px;
 	line-height: 1.2;
 	letter-spacing: 0.02em;
 	color: #2e2f42;
 }
+
 .fresh-coffee-title {
-	font-weight: 400;
 	font-size: 16px;
 	line-height: 1.5;
 	letter-spacing: 0.02em;
