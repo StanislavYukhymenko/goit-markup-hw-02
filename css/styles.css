@@ -1,6 +1,16 @@
 body {
 	font-family: "Roboto", sans-serif;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 1.2;
+	letter-spacing: 0.02em;
+	color: #2e2f42;
 	background: #ffffff;
+}
+
+.p {
+	font-weight: 400;
 }
 
 .list {
@@ -145,17 +155,15 @@ body {
 }
 
 .hero-btn {
-	background: #4d5ae5;
-}
-
-.hero-btn-descr {
+	font-family: inherit;
 	font-weight: 500;
 	font-size: 16px;
 	line-height: 1.5;
 	display: flex;
 	align-items: center;
 	letter-spacing: 0.04em;
-	color: #ffffff;
+	color: #f4f4fd;
+	background: #4d5ae5;
 }
 
 /*------------------Advantages Section------------------------*/
@@ -272,16 +280,18 @@ body {
 }
 
 .our-team-title {
+	font-size: 36px;
+	line-height: 1.11;
+	text-align: center;
+	letter-spacing: 0.02em;
+	text-transform: capitalize;
+	color: #2e2f42;
 }
 
 .our-team-list {
 }
 
 .product-designer-content {
-	width: 264px;
-	height: 380px;
-	left: 156px;
-	top: 1780px;
 }
 
 .name-product-designer {
@@ -303,10 +313,6 @@ body {
 }
 
 .product-frontend-developer {
-	width: 264px;
-	height: 380px;
-	left: 444px;
-	top: 1780px;
 }
 
 .name-frontend-developer {
@@ -328,10 +334,6 @@ body {
 }
 
 .product-marketing {
-	width: 264px;
-	height: 380px;
-	left: 732px;
-	top: 1780px;
 }
 
 .name-marketing {
@@ -353,10 +355,6 @@ body {
 }
 
 .product-ui-designer {
-	width: 264px;
-	height: 380px;
-	left: 1020px;
-	top: 1780px;
 }
 
 .name-ui-designer {
@@ -427,14 +425,7 @@ body {
 }
 
 .all-btn {
-}
-
-.all-btn:hover {
-	background: #404bbf;
-}
-
-.all-btn-descr {
-	font-family: "Roboto", sans-serif;
+	font-family: inherit;
 	font-weight: 500;
 	font-size: 16px;
 	line-height: 1.5;
@@ -445,19 +436,14 @@ body {
 	color: #4d5ae5;
 }
 
-.all-btn-descr:hover {
+.all-btn:hover,
+.all-btn:focus {
+	background: #404bbf;
 	color: #ffffff;
 }
 
 .web-site-btn {
-}
-
-.web-site-btn:hover {
-	background: #404bbf;
-}
-
-.web-site-btn-descr {
-	font-family: "Roboto", sans-serif;
+	font-family: inherit;
 	font-weight: 500;
 	font-size: 16px;
 	line-height: 1.5;
@@ -468,19 +454,14 @@ body {
 	color: #4d5ae5;
 }
 
-.web-site-btn-descr:hover {
+.web-site-btn:hover,
+.web-site-btn:focus {
+	background: #404bbf;
 	color: #ffffff;
 }
 
 .app-btn {
-}
-
-.app-btn:hover {
-	background: #404bbf;
-}
-
-.app-btn-descr {
-	font-family: "Roboto", sans-serif;
+	font-family: inherit;
 	font-weight: 500;
 	font-size: 16px;
 	line-height: 1.5;
@@ -491,19 +472,14 @@ body {
 	color: #4d5ae5;
 }
 
-.app-btn-descr:hover {
+.app-btn:hover,
+.app-btn:focus {
+	background: #404bbf;
 	color: #ffffff;
 }
 
 .design-btn {
-}
-
-.design-btn:hover {
-	background: #404bbf;
-}
-
-.design-btn-descr {
-	font-family: "Roboto", sans-serif;
+	font-family: inherit;
 	font-weight: 500;
 	font-size: 16px;
 	line-height: 1.5;
@@ -514,19 +490,14 @@ body {
 	color: #4d5ae5;
 }
 
-.design-btn-descr:hover {
+.design-btn:hover,
+.design-btn:focus {
+	background: #404bbf;
 	color: #ffffff;
 }
 
 .marketing-btn {
-}
-
-.marketing-btn:hover {
-	background: #404bbf;
-}
-
-.marketing-btn-descr {
-	font-family: "Roboto", sans-serif;
+	font-family: inherit;
 	font-weight: 500;
 	font-size: 16px;
 	line-height: 1.5;
@@ -537,7 +508,9 @@ body {
 	color: #4d5ae5;
 }
 
-.marketing-btn-descr:hover {
+.marketing-btn:hover,
+.marketing-btn:focus {
+	background: #404bbf;
 	color: #ffffff;
 }
 
