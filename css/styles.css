@@ -10,6 +10,7 @@ ul {
 
 a {
   text-decoration: none;
+  color: #2e2f42;
 }
 
 .visually-hidden {
@@ -24,6 +25,7 @@ a {
   clip-path: inset(100%);
   clip: rect(0 0 0 0);
   overflow: hidden;
+  color: #2e2f42;
 }
 
 /* ----------------------------------------------------- */
@@ -56,6 +58,7 @@ a {
 }
 
 .heder-menu-list {
+  color: #2e2f42;
 }
 
 .heder-menu-item {
@@ -155,6 +158,10 @@ a {
 /* --------------------- Section Possibilities ------------------- */
 
 .section-possibilities {
+}
+
+.possibilities-title {
+  color: #2e2f42;
 }
 
 .list-of-possibilities {
