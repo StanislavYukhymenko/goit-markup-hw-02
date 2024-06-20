@@ -85,6 +85,19 @@ a {
 .header-navigation-item {
 }
 
+.header-navigation-link {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+.header-navigation-link:hover,
+.header-navigation-link:focus {
+  color: #404bbf;
+}
+
 .header-navigation-mailto {
   font-weight: 400;
   font-size: 16px;
