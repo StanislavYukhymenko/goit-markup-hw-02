@@ -25,7 +25,6 @@ a {
   clip-path: inset(100%);
   clip: rect(0 0 0 0);
   overflow: hidden;
-  color: #2e2f42;
 }
 
 /* ----------------------------------------------------- */
@@ -138,18 +137,12 @@ a {
   letter-spacing: 0.04em;
   color: #fff;
 
-  width: 169px;
-  height: 56px;
-
   background: #4d5ae5;
   cursor: pointer;
 }
 
 .hero-button:hover,
 .hero-button:focus {
-  width: 169px;
-  height: 56px;
-
   background: #404bbf;
 }
 
